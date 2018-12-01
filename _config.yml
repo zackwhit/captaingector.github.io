@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+
+# Site settings
+title: Gector's Box
+email: gector@fastmail.com
+description: >
+        Fouric's blog, but Gector.
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  captaingector
+
+# Build settings
+markdown: kramdown
+
+# 'jekyll serve'. If you change this file, please restart the server process.
