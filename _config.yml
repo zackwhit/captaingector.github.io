@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Last Lambda
-email: fouric@openmailbox.org
+title: Gector's Box
+email: gector@fastmail.com
 description: > # this means to ignore newlines until "baseurl:"
-        Stuff by Fouric. Contents not guaranteed to be either correct or entertaining.
+        A box of random junk lies on the floor in the north-west corner of the room, the text "gector's box" is written on the box.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  fouric
+github_username:  captaingector
 
 # Build settings
 markdown: kramdown

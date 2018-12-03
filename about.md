@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My blog about programming-related projects that I work on.
+My box that I put mildly interesting stuff in.
