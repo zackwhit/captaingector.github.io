@@ -6,7 +6,6 @@ permalink: /resources/
 
 Peer blogs
 --------------------
-(Yes
 thallia: [thallia's tree](https://thalliatree.wordpress.com/)
 
 Jay: [Dumpster Hacker](https://dumpsterhacker.wordpress.com/)
